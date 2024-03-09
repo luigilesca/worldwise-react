@@ -37,39 +37,27 @@
       "id": "98443197"
     },
     {
-      "id": "b091",
-      "cityName": "Os de Balaguer",
+      "id": "079d",
+      "cityName": "Gallur",
       "country": "Spain",
       "emoji": "🇪🇸",
-      "date": "2024-03-06T21:20:18.686Z",
-      "notes": "tttt",
+      "date": "2024-03-09T10:04:45.335Z",
+      "notes": "",
       "position": {
-        "lat": "41.95131994679697",
-        "lng": "0.6372070312500001"
+        "lat": "41.86956082699455",
+        "lng": "-1.2744140625000002"
       }
     },
     {
-      "id": "e644",
-      "cityName": "Verona",
+      "id": "05e6",
+      "cityName": "Vercelli",
       "country": "Italy",
       "emoji": "🇮🇹",
-      "date": "2024-03-06T21:23:11.973Z",
-      "notes": "yyy",
+      "date": "2024-03-09T10:49:01.050Z",
+      "notes": "",
       "position": {
-        "lat": "45.367584368849805",
-        "lng": "10.986328125000002"
-      }
-    },
-    {
-      "id": "29e0",
-      "cityName": "Outat El Haj",
-      "country": "Morocco",
-      "emoji": "🇲🇦",
-      "date": "2024-03-06T21:26:52.794Z",
-      "notes": "uuu",
-      "position": {
-        "lat": "33.137551192346145",
-        "lng": "-3.7353515625000004"
+        "lat": "45.32475456556555",
+        "lng": "8.423595428466799"
       }
     }
   ]
