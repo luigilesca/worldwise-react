@@ -37,18 +37,6 @@
       "id": "98443197"
     },
     {
-      "id": "079d",
-      "cityName": "Gallur",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-03-09T10:04:45.335Z",
-      "notes": "",
-      "position": {
-        "lat": "41.86956082699455",
-        "lng": "-1.2744140625000002"
-      }
-    },
-    {
       "id": "05e6",
       "cityName": "Vercelli",
       "country": "Italy",
@@ -58,6 +46,18 @@
       "position": {
         "lat": "45.32475456556555",
         "lng": "8.423595428466799"
+      }
+    },
+    {
+      "id": "db02",
+      "cityName": "Alcubierre",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-03-09T15:40:43.820Z",
+      "notes": "",
+      "position": {
+        "lat": "41.78769700539063",
+        "lng": "-0.43945312500000006"
       }
     }
   ]
